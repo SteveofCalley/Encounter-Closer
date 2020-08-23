@@ -1,0 +1,9 @@
+orthw{% comment %} Division {% endcomment %}
+^{% comment %} ^Manually skip a line {% endcomment %}
+ADM{% comment %} ADMGo to physician "administrator" page {% endcomment %}
+EDE{% comment %} EDEGo to - whatever -  {% endcomment %}
+CD{% comment %} CDChange date range to useful one {% endcomment %}
+-10{% comment %} -10Start 10 days ago {% endcomment %}
+-1{% comment %} -1Stop yesterday (today's aren't done) {% endcomment %}
+AL{% comment %} ALSomething whatever. {% endcomment %}
+NA{% comment %} NANon-closed ones {% endcomment %}
